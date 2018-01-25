@@ -1,0 +1,15 @@
+#filter-bar.ui.grid {
+  background-color: rgba(0,0,50,.02);
+  border: 1px solid rgba(34,36,38,.15);
+  margin: 10px 0 0 0 !important;
+}
+
+.DateInput {
+    padding: 0 !important;
+    width: 110px !important;
+}
+
+  .DateInput .DateInput_input {
+    font-size: 14px !important;
+    line-height: normal !important;
+  }
